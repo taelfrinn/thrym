@@ -16,6 +16,7 @@
 	"dependencies": {
 		"bluebird": "^3.5.3",
 		"collections": "^5.1.8",
+		"google-libphonenumber": "^3.2.2",
 		"lodash": "^4.17.11",
 		"pino": "^5.11.1",
 		"pino-http": "^4.1.0"
