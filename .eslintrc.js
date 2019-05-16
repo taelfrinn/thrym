@@ -17,7 +17,8 @@ module.exports = {
 		"indent": ["error", "tab"],
 		"no-tabs": ["off", ""],
 		"yoda": ["off"],
-		"prefer-promise-reject-errors": ["off"]
+		"prefer-promise-reject-errors": ["off"],
+		"object-curly-spacing": ["off"]
 	},
 	"env": {
 		"node": true,
