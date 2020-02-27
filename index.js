@@ -5,5 +5,5 @@ module.exports = {
 	csrf: require("./lib/csrf.js"),
 	logger: require("./lib/logger.js"),
 	stats: require("./lib/stats.js"),
-	utils: require("./lib/utils.js")
+	util: require("./lib/util.js")
 };
