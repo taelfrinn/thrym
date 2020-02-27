@@ -1,9 +1,9 @@
 
 module.exports = {
 	config: require("./lib/config.js"),
-	crudDao: require("crudDao.js"),
-	csrf: require("csrf.js"),
-	logger: require("logger.js"),
-	stats: require("stats.js"),
-	utils: require("./utils.js")
+	crudDao: require("./lib/crudDao.js"),
+	csrf: require("./lib/csrf.js"),
+	logger: require("./lib/logger.js"),
+	stats: require("./lib/stats.js"),
+	utils: require("./lib/utils.js")
 };
