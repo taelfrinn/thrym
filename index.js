@@ -4,5 +4,6 @@ module.exports = {
 	crudDao: require("crudDao.js"),
 	csrf: require("csrf.js"),
 	logger: require("logger.js"),
-	stats: require("stats.js")
+	stats: require("stats.js"),
+	utils: require("./utils.js")
 };
