@@ -18,15 +18,15 @@
 		"bluebird": "3.5.4",
 		"collections": "5.1.8",
 		"google-libphonenumber": "3.2.2",
-		"lodash": "4.17.15",
+		"lodash": "4.17.21",
 		"pino": "5.12.4",
 		"pino-http": "4.2.0",
-		"sodium-native": "2.4.2",
+		"sodium-native": "3.2.1",
 		"thirty-two": "1.0.2"
 	},
 	"devDependencies": {
 		"husky": "2.3.0",
-		"jest": "24.9.0"
+		"jest": "27.0.4"
 	},
 	"jest": {
 		"testEnvironment": "node",
